@@ -1,0 +1,16 @@
+pane	0	1	:ssh	0	:-	1	:/home/antoine/web/work/nakama/pof	1	nvim	:nvim
+pane	0	1	:ssh	0	:-	2	:/home/antoine/web/work/nakama/pof	0	node	:node /home/antoine/.nvm/versions/node/v15.7.0/bin/yarn test --watch --no-coverage tests/components/dashboard/pages/home/Moodboard.spec.js
+pane	0	2	:zsh	1	:*	1	:/home/antoine/web/work/nakama/pof	1	zsh	:
+pane	0	2	:zsh	1	:*	2	:/home/antoine/web/work/nakama/sanctum	0	zsh	:
+pane	3	1	:zsh	1	:*Z	1	:/home/antoine/tmp/galiad	1	zsh	:
+pane	3	1	:zsh	1	:*Z	2	:/home/antoine/tmp/galiad	0	zsh	:
+pane	4	1	:python	1	:*	1	:/home/antoine/tmp/galiad	1	python	:python applesauce.py
+pane	5	1	:ssh	1	:*	1	:/home/antoine	1	ssh	:ssh antoine@163.172.36.81
+pane	chat-bot	1	:zsh	1	:*	1	:/home/antoine/tmp/galiad	1	zsh	:
+window	0	1	0	:-	58a1,194x32,0,0[194x25,0,0,1,194x6,0,26,32]
+window	0	2	1	:*	2792,194x32,0,0{97x32,0,0,2,96x32,98,0,5}
+window	3	1	1	:*Z	7720,194x32,0,0{97x32,0,0,25,96x32,98,0,29}
+window	4	1	1	:*	5a90,194x32,0,0,30
+window	5	1	1	:*	5a91,194x32,0,0,31
+window	chat-bot	1	1	:*	b4c0,194x32,0,0,3
+state	0	4

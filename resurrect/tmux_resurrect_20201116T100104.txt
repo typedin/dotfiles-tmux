@@ -1,0 +1,7 @@
+pane	0	1	:ssh	1	:*	1	:/home/antoine/web/work/nakama/pof	1	zsh	:
+pane	0	2	:zsh	0	:-	1	:/home/antoine/web/work/nakama/pof	1	zsh	:
+pane	chat-bot	1	:zsh	1	:*	1	:/home/antoine	1	ssh	:ssh antoine@163.172.36.81
+window	0	1	1	:*	b83e,170x24,0,0,1
+window	0	2	0	:-	b83f,170x24,0,0,2
+window	chat-bot	1	1	:*	b840,170x24,0,0,3
+state	0	chat-bot
